@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InglesForKids.PageColors"
+             Title="Cores"
+             BackgroundColor="LightGray">
+    
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Orientation="Vertical">
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="color_black"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Black" TextColor="Black" />
+                            <Label Text="Português: Preto" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10, 10, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="color_brown"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Brown" TextColor="Black" />
+                            <Label Text="Português: Marrom" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10, 10, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="color_dusty_yellow"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Dusty yellow" TextColor="Black" />
+                            <Label Text="Português: Beje" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10, 10, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="color_gray"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Gray" TextColor="Black" />
+                            <Label Text="Português: Cinza" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+                
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

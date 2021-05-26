@@ -14,5 +14,20 @@ namespace InglesForKids
         {
             InitializeComponent();
         }
+
+        private void btCores_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new PageColors());
+        }
+
+        private void btFamilia_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btNumeros_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
