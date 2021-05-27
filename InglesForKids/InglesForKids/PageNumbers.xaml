@@ -15,9 +15,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_one"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number One" TextColor="Black" />
-                            <Label Text="Português: Numero Um" TextColor="Black" />
+                        <StackLayout Margin="20,0,0,0">
+                            <Label Text="Inglês: Number One" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Um" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -29,9 +29,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_two"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number Two" TextColor="Black" />
-                            <Label Text="Português: Numero Dois" TextColor="Black" />
+                        <StackLayout Margin="20,0,0,0">
+                            <Label Text="Inglês: Number Two" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Dois" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -43,9 +43,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_three"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number Three" TextColor="Black" />
-                            <Label Text="Português: Numero Três" TextColor="Black" />
+                        <StackLayout Margin="20,0,0,0">
+                            <Label Text="Inglês: Number Three" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Três" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -57,9 +57,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_four"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number Four" TextColor="Black" />
-                            <Label Text="Português: Numero Quatro" TextColor="Black" />
+                        <StackLayout Margin="10,0,0,0">
+                            <Label Text="Inglês: Number Four" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Quatro" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -71,9 +71,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_five"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number Five" TextColor="Black" />
-                            <Label Text="Português: Numero Cinco" TextColor="Black" />
+                        <StackLayout Margin="20,0,0,0">
+                            <Label Text="Inglês: Number Five" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Cinco" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -85,9 +85,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_six"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number Six" TextColor="Black" />
-                            <Label Text="Português: Numero Seis" TextColor="Black" />
+                        <StackLayout Margin="20,0,0,0">
+                            <Label Text="Inglês: Number Six" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Seis" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -99,9 +99,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_seven"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number Seven" TextColor="Black" />
-                            <Label Text="Português: Numero Sete" TextColor="Black" />
+                        <StackLayout Margin="20,0,0,0">
+                            <Label Text="Inglês: Number Seven" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Sete" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -113,9 +113,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_eight"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number Eight" TextColor="Black" />
-                            <Label Text="Português: Numero Oito" TextColor="Black" />
+                        <StackLayout Margin="20,0,0,0">
+                            <Label Text="Inglês: Number Eight" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Oito" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -127,9 +127,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_nine"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number Nine" TextColor="Black" />
-                            <Label Text="Português: Numero Nove" TextColor="Black" />
+                        <StackLayout Margin="20,0,0,0">
+                            <Label Text="Inglês: Number Nine" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Nove" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -141,9 +141,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="number_ten"/>
-                        <StackLayout Margin="20,70,0,0">
-                            <Label Text="Inglês: Number Ten" TextColor="Black" />
-                            <Label Text="Português: Numero Dez" TextColor="Black" />
+                        <StackLayout Margin="20,0,0,0">
+                            <Label Text="Inglês: Number Ten" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Numero Dez" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>

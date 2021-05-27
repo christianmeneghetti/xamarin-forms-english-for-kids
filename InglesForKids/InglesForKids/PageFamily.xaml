@@ -16,9 +16,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_younger_brother"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Younger Brother" TextColor="Black" />
-                            <Label Text="Português: Irmão mais novo" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Younger Brother" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Irmão mais novo" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -30,9 +30,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_younger_sister"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Younger Sister" TextColor="Black" />
-                            <Label Text="Português: Irmã mais nova" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Younger Sister" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Irmã mais nova" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -44,9 +44,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_son"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Son" TextColor="Black" />
-                            <Label Text="Português: Filho" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Son" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Filho" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -58,9 +58,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_daughter"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Daughter" TextColor="Black" />
-                            <Label Text="Português: Filha" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Daughter" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Filha" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -72,9 +72,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_older_brother"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Older Brother" TextColor="Black" />
-                            <Label Text="Português: Irmão mais velho" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Older Brother" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Irmão mais velho" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -86,9 +86,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_older_sister"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Older Sister" TextColor="Black" />
-                            <Label Text="Português: Irmã mais velha" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Older Sister" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Irmã mais velha" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -100,9 +100,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_father"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Father" TextColor="Black" />
-                            <Label Text="Português: Pai" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Father" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Pai" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -114,9 +114,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_mother"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Mother" TextColor="Black" />
-                            <Label Text="Português: Mãe" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Mother" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Mãe" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -128,9 +128,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_grandfather"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Grandfather" TextColor="Black" />
-                            <Label Text="Português: Avô" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Grandfather" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Avô" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -142,9 +142,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="family_grandmother"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Grandmother" TextColor="Black" />
-                            <Label Text="Português: Avó" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Grandmother" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Avó" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>

@@ -16,9 +16,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="color_black"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Black" TextColor="Black" />
-                            <Label Text="Português: Preto" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Black" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand" />
+                            <Label Text="Português: Preto" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -30,9 +30,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="color_brown"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Brown" TextColor="Black" />
-                            <Label Text="Português: Marrom" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Brown" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Marrom" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -44,9 +44,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="color_dusty_yellow"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Dusty yellow" TextColor="Black" />
-                            <Label Text="Português: Bege" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Dusty yellow" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Bege" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -58,9 +58,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="color_gray"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Gray" TextColor="Black" />
-                            <Label Text="Português: Cinza" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Gray" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Cinza" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -72,9 +72,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="color_green"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Green" TextColor="Black" />
-                            <Label Text="Português: Verde" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Green" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Verde" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -86,9 +86,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="color_mustard_yellow"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Yellow" TextColor="Black" />
-                            <Label Text="Português: Amarelo" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Yellow" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Amarelo" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -100,9 +100,9 @@
                     BackgroundColor="White">
                     <FlexLayout>
                         <Image Source="color_red"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Red" TextColor="Black" />
-                            <Label Text="Português: Vermelho" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: Red" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Vermelho" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -123,9 +123,9 @@
                             HeightRequest="80">
                             <Image Source="color_white"/>
                         </Frame>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: White" TextColor="Black" />
-                            <Label Text="Português: Branco" TextColor="Black" />
+                        <StackLayout Margin="0,0,0,0">
+                            <Label Text="Inglês: White" TextColor="Black" FontSize="16" VerticalOptions="EndAndExpand"/>
+                            <Label Text="Português: Branco" TextColor="Black" FontSize="16" VerticalOptions="StartAndExpand"/>
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
