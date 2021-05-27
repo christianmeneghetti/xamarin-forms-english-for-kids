@@ -2,13 +2,154 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="InglesForKids.PageFamily"
-             Title="Família">
+             Title="Família"
+             BackgroundColor="LightGray">
     
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <StackLayout Orientation="Vertical">
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_younger_brother"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Younger Brother" TextColor="Black" />
+                            <Label Text="Português: Irmão mais novo" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_younger_sister"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Younger Sister" TextColor="Black" />
+                            <Label Text="Português: Irmã mais nova" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_son"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Son" TextColor="Black" />
+                            <Label Text="Português: Filho" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_daughter"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Daughter" TextColor="Black" />
+                            <Label Text="Português: Filha" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_older_brother"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Older Brother" TextColor="Black" />
+                            <Label Text="Português: Irmão mais velho" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_older_sister"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Older Sister" TextColor="Black" />
+                            <Label Text="Português: Irmã mais velha" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_father"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Father" TextColor="Black" />
+                            <Label Text="Português: Pai" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_mother"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Mother" TextColor="Black" />
+                            <Label Text="Português: Mãe" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_grandfather"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Grandfather" TextColor="Black" />
+                            <Label Text="Português: Avô" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10,20, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="family_grandmother"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Grandmother" TextColor="Black" />
+                            <Label Text="Português: Avó" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

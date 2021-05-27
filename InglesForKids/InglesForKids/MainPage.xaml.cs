@@ -22,7 +22,7 @@ namespace InglesForKids
 
         private void btFamilia_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new PageFamily());
         }
 
         private void btNumeros_Clicked(object sender, EventArgs e)
