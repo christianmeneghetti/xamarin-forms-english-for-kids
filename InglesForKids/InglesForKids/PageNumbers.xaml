@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="InglesForKids.PageFamily"
-             Title="Família"
-             BackgroundColor="LightGray">
-    
+             x:Class="InglesForKids.PageNumbers"
+             Title="Números">
+
     <ContentPage.Content>
         <ScrollView>
             <StackLayout Orientation="Vertical">
@@ -15,10 +14,10 @@
                     Margin="10,20, 10, 10"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_younger_brother"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Younger Brother" TextColor="Black" />
-                            <Label Text="Português: Irmão mais novo" TextColor="Black" />
+                        <Image Source="number_one"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number One" TextColor="Black" />
+                            <Label Text="Português: Numero Um" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -29,10 +28,10 @@
                     Margin="10,10, 10, 10"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_younger_sister"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Younger Sister" TextColor="Black" />
-                            <Label Text="Português: Irmã mais nova" TextColor="Black" />
+                        <Image Source="number_two"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number Two" TextColor="Black" />
+                            <Label Text="Português: Numero Dois" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -43,10 +42,10 @@
                     Margin="10,10, 10, 10"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_son"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Son" TextColor="Black" />
-                            <Label Text="Português: Filho" TextColor="Black" />
+                        <Image Source="number_three"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number Three" TextColor="Black" />
+                            <Label Text="Português: Numero Três" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -57,10 +56,10 @@
                     Margin="10,10, 10, 10"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_daughter"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Daughter" TextColor="Black" />
-                            <Label Text="Português: Filha" TextColor="Black" />
+                        <Image Source="number_four"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number Four" TextColor="Black" />
+                            <Label Text="Português: Numero Quatro" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -71,10 +70,10 @@
                     Margin="10,10, 10, 10"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_older_brother"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Older Brother" TextColor="Black" />
-                            <Label Text="Português: Irmão mais velho" TextColor="Black" />
+                        <Image Source="number_five"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number Five" TextColor="Black" />
+                            <Label Text="Português: Numero Cinco" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -85,10 +84,10 @@
                     Margin="10,10, 10, 10"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_older_sister"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Older Sister" TextColor="Black" />
-                            <Label Text="Português: Irmã mais velha" TextColor="Black" />
+                        <Image Source="number_six"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number Six" TextColor="Black" />
+                            <Label Text="Português: Numero Seis" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -99,10 +98,10 @@
                     Margin="10,10, 10, 10"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_father"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Father" TextColor="Black" />
-                            <Label Text="Português: Pai" TextColor="Black" />
+                        <Image Source="number_seven"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number Seven" TextColor="Black" />
+                            <Label Text="Português: Numero Sete" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -113,10 +112,10 @@
                     Margin="10,10, 10, 10"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_mother"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Mother" TextColor="Black" />
-                            <Label Text="Português: Mãe" TextColor="Black" />
+                        <Image Source="number_eight"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number Eight" TextColor="Black" />
+                            <Label Text="Português: Numero Oito" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -127,10 +126,10 @@
                     Margin="10,10, 10, 10"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_grandfather"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Grandfather" TextColor="Black" />
-                            <Label Text="Português: Avô" TextColor="Black" />
+                        <Image Source="number_nine"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number Nine" TextColor="Black" />
+                            <Label Text="Português: Numero Nove" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -141,10 +140,10 @@
                     Margin="10,10, 10, 20"  
                     BackgroundColor="White">
                     <FlexLayout>
-                        <Image Source="family_grandmother"/>
-                        <StackLayout Margin="0,40,0,0">
-                            <Label Text="Inglês: Grandmother" TextColor="Black" />
-                            <Label Text="Português: Avó" TextColor="Black" />
+                        <Image Source="number_ten"/>
+                        <StackLayout Margin="20,70,0,0">
+                            <Label Text="Inglês: Number Ten" TextColor="Black" />
+                            <Label Text="Português: Numero Dez" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>

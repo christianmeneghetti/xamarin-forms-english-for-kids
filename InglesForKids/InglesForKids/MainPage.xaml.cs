@@ -27,7 +27,7 @@ namespace InglesForKids
 
         private void btNumeros_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new PageNumbers());
         }
     }
 }
