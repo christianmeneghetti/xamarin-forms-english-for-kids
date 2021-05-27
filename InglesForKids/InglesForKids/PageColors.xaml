@@ -46,7 +46,7 @@
                         <Image Source="color_dusty_yellow"/>
                         <StackLayout Margin="0,40,0,0">
                             <Label Text="Inglês: Dusty yellow" TextColor="Black" />
-                            <Label Text="Português: Beje" TextColor="Black" />
+                            <Label Text="Português: Bege" TextColor="Black" />
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
@@ -64,7 +64,71 @@
                         </StackLayout>
                     </FlexLayout>
                 </Frame>
-                
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10, 10, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="color_green"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Green" TextColor="Black" />
+                            <Label Text="Português: Verde" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10, 10, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="color_mustard_yellow"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Yellow" TextColor="Black" />
+                            <Label Text="Português: Amarelo" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10, 10, 10, 10"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Image Source="color_red"/>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: Red" TextColor="Black" />
+                            <Label Text="Português: Vermelho" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
+
+                <Frame 
+                    CornerRadius="5" 
+                    Padding="0" 
+                    Margin="10, 10, 10, 20"  
+                    BackgroundColor="White">
+                    <FlexLayout>
+                        <Frame 
+                            HasShadow="True" 
+                            BorderColor="Black" 
+                            Padding="0,0,0,0"
+                            Margin="25,25,25,25"
+                            CornerRadius="80" 
+                            WidthRequest="80" 
+                            HeightRequest="80">
+                            <Image Source="color_white"/>
+                        </Frame>
+                        <StackLayout Margin="0,40,0,0">
+                            <Label Text="Inglês: White" TextColor="Black" />
+                            <Label Text="Português: Branco" TextColor="Black" />
+                        </StackLayout>
+                    </FlexLayout>
+                </Frame>
 
             </StackLayout>
         </ScrollView>
